@@ -3,8 +3,6 @@ import inquirer from 'inquirer';
 import chalk from 'chalk';
 //modulos internos
 import fs from 'fs';
-import { verify } from 'crypto';
-import { parse } from 'url';
 
 operation()
 
