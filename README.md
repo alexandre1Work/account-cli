@@ -1,13 +1,14 @@
-Banco 🏦
-Um projeto de um banco no terminal que permite operações bancárias, utilizando `inquirer` para interação com o usuário e `chalk` para estilização no terminal.
+# Banco 🏦  
 
-Funcionalidades 🛠️ 
-💳 Criar conta
-💰 Depositar
-💸 Sacar
-📊 Consultar saldo
+Um projeto de um banco no terminal que permite operações bancárias, utilizando `inquirer` para interação com o usuário e `chalk` para estilização no terminal.  
 
-Tecnologias 🚀
-Node.js
-Inquirer
-Chalk
+## 🛠️ Funcionalidades  
+- 📄 Criar conta  
+- 💰 Depositar  
+- 💸 Sacar  
+- 📊 Consultar saldo  
+
+## 🚀 Tecnologias  
+- Node.js  
+- Inquirer  
+- Chalk  
